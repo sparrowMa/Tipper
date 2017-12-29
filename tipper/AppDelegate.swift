@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  tipper
 //
-//  Created by 马懿元 on 12/26/17.
+//  Created by Sparrow on 12/26/17.
 //  Copyright © 2017 Sparrow. All rights reserved.
 //
 
